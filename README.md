@@ -4,8 +4,8 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 Siddharth Sivalanka
 
 ## GitHub Pages
-- expose.html: [link here]
-- explore.html: [link here]
+- expose.html: https://siddharthsiva.github.io/Lab5_Starter/expose.html
+- explore.html: https://siddharthsiva.github.io/Lab5_Starter/explore.html
 
 ## Check Your Understanding
 
